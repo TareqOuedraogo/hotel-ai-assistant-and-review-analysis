@@ -131,3 +131,14 @@ Actuellement à la recherche d’opportunités en IA / Data Science (stage ou em
 ## Contact
 
 Disponible pour discuter du projet ou d’opportunités professionnelles.
+
+
+
+## Contact
+
+Tareq Ouedraogo
+Email : tareqouedraogo2@gmail.com
+LinkedIn :https://www.linkedin.com/in/tareq-ouedraogo-b9373b365/
+GitHub : https://github.com/TareqOuedraogo
+Ouvert aux opportunités en intelligence artificielle et data science, avec un intérêt particulier pour les systèmes NLP et les applications concrètes en entreprise.
+
